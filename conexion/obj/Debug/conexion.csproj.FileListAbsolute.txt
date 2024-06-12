@@ -1,0 +1,56 @@
+c:\users\jhon\documents\visual studio 2013\Projects\conexion\conexion\bin\Debug\conexion.exe.config
+c:\users\jhon\documents\visual studio 2013\Projects\conexion\conexion\obj\Debug\conexion.csprojResolveAssemblyReference.cache
+c:\users\jhon\documents\visual studio 2013\Projects\conexion\conexion\obj\Debug\conexion.Form1.resources
+c:\users\jhon\documents\visual studio 2013\Projects\conexion\conexion\obj\Debug\conexion.Properties.Resources.resources
+c:\users\jhon\documents\visual studio 2013\Projects\conexion\conexion\obj\Debug\conexion.csproj.GenerateResource.Cache
+C:\Users\JHON\documents\visual studio 2013\Projects\conexion\conexion\bin\Debug\conexion.exe
+C:\Users\JHON\documents\visual studio 2013\Projects\conexion\conexion\bin\Debug\conexion.pdb
+C:\Users\JHON\documents\visual studio 2013\Projects\conexion\conexion\obj\Debug\conexion.exe
+C:\Users\JHON\documents\visual studio 2013\Projects\conexion\conexion\obj\Debug\conexion.pdb
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\bin\Debug\conexion.exe.config
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\obj\Debug\conexion.exe
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\obj\Debug\conexion.pdb
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\bin\Debug\conexion.exe
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\bin\Debug\conexion.pdb
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\bin\Debug\mysql.data.dll
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\obj\Debug\conexion.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\obj\Debug\conexion.Form1.resources
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\obj\Debug\conexion.Properties.Resources.resources
+C:\Users\HP\Desktop\324 Jhon\Examen_2do_Parcial_INF-324-main\PREGUNTA 3\conexion\conexion\obj\Debug\conexion.csproj.GenerateResource.Cache
+C:\Users\pieri\OneDrive\Escritorio\Tareas Piero\UMSA\INF-324\Examen 2\EJER 3\conexion\conexion\bin\Debug\conexion.exe.config
+C:\Users\pieri\OneDrive\Escritorio\Tareas Piero\UMSA\INF-324\Examen 2\EJER 3\conexion\conexion\bin\Debug\conexion.exe
+C:\Users\pieri\OneDrive\Escritorio\Tareas Piero\UMSA\INF-324\Examen 2\EJER 3\conexion\conexion\bin\Debug\conexion.pdb
+C:\Users\pieri\OneDrive\Escritorio\Tareas Piero\UMSA\INF-324\Examen 2\EJER 3\conexion\conexion\obj\Debug\conexion.csproj.AssemblyReference.cache
+C:\Users\pieri\OneDrive\Escritorio\Tareas Piero\UMSA\INF-324\Examen 2\EJER 3\conexion\conexion\obj\Debug\conexion.csproj.SuggestedBindingRedirects.cache
+C:\Users\pieri\OneDrive\Escritorio\Tareas Piero\UMSA\INF-324\Examen 2\EJER 3\conexion\conexion\obj\Debug\conexion.Form1.resources
+C:\Users\pieri\OneDrive\Escritorio\Tareas Piero\UMSA\INF-324\Examen 2\EJER 3\conexion\conexion\obj\Debug\conexion.Properties.Resources.resources
+C:\Users\pieri\OneDrive\Escritorio\Tareas Piero\UMSA\INF-324\Examen 2\EJER 3\conexion\conexion\obj\Debug\conexion.csproj.GenerateResource.cache
+C:\Users\pieri\OneDrive\Escritorio\Tareas Piero\UMSA\INF-324\Examen 2\EJER 3\conexion\conexion\obj\Debug\conexion.csproj.CoreCompileInputs.cache
+C:\Users\pieri\OneDrive\Escritorio\Tareas Piero\UMSA\INF-324\Examen 2\EJER 3\conexion\conexion\obj\Debug\conexion.csproj.CopyComplete
+C:\Users\pieri\OneDrive\Escritorio\Tareas Piero\UMSA\INF-324\Examen 2\EJER 3\conexion\conexion\obj\Debug\conexion.exe
+C:\Users\pieri\OneDrive\Escritorio\Tareas Piero\UMSA\INF-324\Examen 2\EJER 3\conexion\conexion\obj\Debug\conexion.pdb
+C:\Users\diego\Downloads\Examen-2---INF-324-main\Examen-2---INF-324-main\Segundo examen 324\Ejercicio 3 - Texturas\conexion\conexion\bin\Debug\conexion.exe.config
+C:\Users\diego\Downloads\Examen-2---INF-324-main\Examen-2---INF-324-main\Segundo examen 324\Ejercicio 3 - Texturas\conexion\conexion\obj\Debug\conexion.exe
+C:\Users\diego\Downloads\Examen-2---INF-324-main\Examen-2---INF-324-main\Segundo examen 324\Ejercicio 3 - Texturas\conexion\conexion\obj\Debug\conexion.pdb
+C:\Users\diego\Downloads\Examen-2---INF-324-main\Examen-2---INF-324-main\Segundo examen 324\Ejercicio 3 - Texturas\conexion\conexion\obj\Debug\conexion.csprojResolveAssemblyReference.cache
+C:\Users\diego\Downloads\Examen-2---INF-324-main\Examen-2---INF-324-main\Segundo examen 324\Ejercicio 3 - Texturas\conexion\conexion\obj\Debug\conexion.Form1.resources
+C:\Users\diego\Downloads\Examen-2---INF-324-main\Examen-2---INF-324-main\Segundo examen 324\Ejercicio 3 - Texturas\conexion\conexion\obj\Debug\conexion.Properties.Resources.resources
+C:\Users\diego\Downloads\Examen-2---INF-324-main\Examen-2---INF-324-main\Segundo examen 324\Ejercicio 3 - Texturas\conexion\conexion\obj\Debug\conexion.csproj.GenerateResource.Cache
+C:\Users\diego\Downloads\Examen-2---INF-324-main\Examen-2---INF-324-main\Segundo examen 324\Ejercicio 3 - Texturas\conexion\conexion\bin\Debug\conexion.exe
+C:\Users\diego\Downloads\Examen-2---INF-324-main\Examen-2---INF-324-main\Segundo examen 324\Ejercicio 3 - Texturas\conexion\conexion\bin\Debug\conexion.pdb
+C:\Users\Rafo\Documents\Inf 324\conexion\conexion\bin\Debug\conexion.exe.config
+C:\Users\Rafo\Documents\Inf 324\conexion\conexion\obj\Debug\conexion.exe
+C:\Users\Rafo\Documents\Inf 324\conexion\conexion\obj\Debug\conexion.pdb
+C:\Users\Rafo\Documents\Inf 324\conexion\conexion\bin\Debug\conexion.exe
+C:\Users\Rafo\Documents\Inf 324\conexion\conexion\bin\Debug\conexion.pdb
+C:\Users\Rafo\Documents\Inf 324\conexion\conexion\bin\Debug\mscorlib.dll
+C:\Users\Rafo\Documents\Inf 324\conexion\conexion\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Rafo\Documents\Inf 324\conexion\conexion\bin\Debug\normidna.nlp
+C:\Users\Rafo\Documents\Inf 324\conexion\conexion\bin\Debug\normnfc.nlp
+C:\Users\Rafo\Documents\Inf 324\conexion\conexion\bin\Debug\normnfd.nlp
+C:\Users\Rafo\Documents\Inf 324\conexion\conexion\bin\Debug\normnfkc.nlp
+C:\Users\Rafo\Documents\Inf 324\conexion\conexion\bin\Debug\normnfkd.nlp
+C:\Users\Rafo\Documents\Inf 324\conexion\conexion\obj\Debug\conexion.csprojResolveAssemblyReference.cache
+C:\Users\Rafo\Documents\Inf 324\conexion\conexion\obj\Debug\conexion.Form1.resources
+C:\Users\Rafo\Documents\Inf 324\conexion\conexion\obj\Debug\conexion.Properties.Resources.resources
+C:\Users\Rafo\Documents\Inf 324\conexion\conexion\obj\Debug\conexion.csproj.GenerateResource.Cache
