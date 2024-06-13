@@ -138,7 +138,13 @@ namespace conexion
                                 }
                             }
                             string cambio = string.Format("De ({0}, {1}, {2}) a ({3}, {4}, {5})", meR, meG, meB, RBD, GBD, BBD);
-                            cambiosUnicos.Add(cambio);
+
+                            // Solo añadir a la lista de cambios únicos si aún no existe
+                            if (!cambiosUnicos.Contains(cambio))
+                            {
+                                cambiosUnicos.Add(cambio);
+                            }
+
                             bandera = true;
                             break; // Sale del bucle si se encuentra un color coincidente
                         }
@@ -168,7 +174,7 @@ namespace conexion
                 MessageBox.Show("No se realizaron cambios de color", "Colores Cambiados");
             }
         }
-    
+
        
 
        
